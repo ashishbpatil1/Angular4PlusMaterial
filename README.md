@@ -1,5 +1,29 @@
 # ap-angular-material
 
+Startup template based on Angular 5+ and [Angular Material](https://material.angular.io).
+
+
+### What's included:
+
+- Angular 5+ & Typescript
+- Angular Material 5+ & CSS
+- Responsive layout
+- High resolution
+- Lots of awesome features:
+  - Buttons
+  - Checkboxes
+  - Forms
+  - Stepper
+  - Autocomplete
+  
+And many more!
+
+### Demo
+
+<a target="_blank" href="https://ap-angular-material.stackblitz.io/dashboard">Live Demo</a>
+
+## Documentation
+This project is using [Angular Tours of Heros](https://angular.io/tutorial) and [Angular Material](https://material.angular.io).
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.2.1.
 
 ## Development server
