@@ -52,7 +52,7 @@ Before running the tests make sure you are serving the app via `ng serve`.
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README]<br />(https://github.com/angular/angular-cli/blob/master/README.md).
 
 
-## Command Line Help for Git Bash
+## Command Line Help for Git Bash ([Download](https://git-scm.com/download/win))
 Open Git Bash
 1. Navigate to code folder: <br />
 cd /d/POC/ap-angular-material
