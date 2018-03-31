@@ -64,7 +64,7 @@ git init
 git add README.md
 
 4. Set your github credential globally:
-git config --global user.email "you@example.com"
+git config --global user.email "you@example.com" \r\n
 git config --global user.name "Your Name"
 
 5. Commit:
