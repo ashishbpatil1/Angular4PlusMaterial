@@ -50,3 +50,37 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+
+## Command Line Help for Git Bash
+Open Git Bash
+1. Navigate to code folder:
+cd /d/POC/ap-angular-material
+
+2. Initialize the git:
+git init
+
+3. Add read me file:
+git add README.md
+
+4. Set your github credential globally:
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+5. Commit:
+git commit -m "first commit"
+
+6. Add github link (taken from github):
+git remote add origin https://github.com/ashishbpatil1/Angular4PlusMaterial.git
+
+7. Push the code to github:
+git push -u origin master
+
+9. For next time:
+git status
+git add --all
+git status
+git commit -m 'comment here'
+git status
+git push origin master
+
