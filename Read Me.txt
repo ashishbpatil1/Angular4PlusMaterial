@@ -1,0 +1,43 @@
+From GitHub:
+echo "# Angular4PlusMaterial" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/ashishbpatil1/Angular4PlusMaterial.git
+git push -u origin master
+
+
+
+Open Git Bash
+
+cd /d/POC/ap-angular-material
+
+git init
+
+git add README.md
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+git config --global user.email "ashishbpatil1@gmail.com"
+git config --global user.name "ashishbpatil1"
+
+git commit -m "first commit"
+
+git remote add origin https://github.com/ashishbpatil1/Angular4PlusMaterial.git
+
+git push -u origin master
+
+git status
+git add --all
+git status
+git commit -m 'comment here'
+git status
+git push origin master
+
+
+
+https://stackblitz.com/edit/ap-angular-materia
+https://ap-angular-material.stackblitz.io/heroes
+https://stackblitz.com/edit/ap-angular-material?embed=1&file=src/app/mock-heroes.ts
