@@ -54,23 +54,23 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Command Line Help for Git Bash
 Open Git Bash
-1. Navigate to code folder:
+1. Navigate to code folder: <br />
 cd /d/POC/ap-angular-material
 
-2. Initialize the git:
+2. Initialize the git: <br />
 git init
 
-3. Add read me file:
+3. Add read me file: <br />
 git add README.md
 
-4. Set your github credential globally:
+4. Set your github credential globally: <br />
 git config --global user.email "you@example.com" <br />
 git config --global user.name "Your Name"
 
 5. Commit:
 git commit -m "first commit"
 
-6. Add github link (taken from github):
+6. Add github link (taken from github): <br />
 git remote add origin https://github.com/ashishbpatil1/Angular4PlusMaterial.git
 
 7. Push the code to github:
